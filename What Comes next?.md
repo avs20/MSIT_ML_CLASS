@@ -27,6 +27,13 @@ The online learning industry was build upon python. Almost all the websites star
 
 3. [Harvard's CS50 Course](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
 
+### Topics and Next steps in Python and Data Analysis
+
+1. Web Scraping : Generating data from the Internet
+2. VIsualization : Using Seaborn and ggplot
+3. EDA using python
+4. Cleaning data 
+
 
 ## 2. Machine Learning 
 
