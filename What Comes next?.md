@@ -91,7 +91,7 @@ The below list contains the links sorted by the machine learning steps.
 
 ### Finding Right Metric for Evaluation
 
-23. C[hoosing the right metric for ML Models Part 1](https://towardsdatascience.com/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4) and [Part 2](https://towardsdatascience.com/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
+23. [Choosing the right metric for ML Models Part 1](https://towardsdatascience.com/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4) and [Part 2](https://towardsdatascience.com/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
 
 24. [Metrics To Evaluate Machine Learning Algorithms (Machine Learning Mastery — Blog Post)](https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/)
 
@@ -108,3 +108,33 @@ The below list contains the links sorted by the machine learning steps.
 29. [Data Visualisation in Python (Analytics Vidhya)](https://www.analyticsvidhya.com/wp-content/uploads/2015/06/data-visualisation-infographics1.jpg)
 
 30. [Scikit Learn cheat sheet (Analytics Vidhya)](https://www.analyticsvidhya.com/infographics/Scikit-Learn-Infographic.pdf)
+
+
+## 3. Topics and Next steps in Deep Learning
+
+1. **RNNs : Recurrent Neural Networks :** Basically used for text processing but a variation of them is used known as LSTM (Long Short Term Memory)
+2. **LSTM and GRU :** RNN's better working implementations . Study from [wildml.com](wildml.com)
+3. **Autoencoders** : These are the unsupservised part of the Deep Learning used for denoising , data compression and dimensionaly reduction. Learn them from [fast.ai](fast.ai)
+4. **Embeddings** : Embeddings are a representation of data in some dimension  and help us make relationship. They are generally part of RNN but you should specially learn the *word2vec*
+5.  **GANs** : Generative Adversarial Networks - They are used to make algorithms learn about the data and then generate data directly from random ness. There are GANs and Deep Conv GANs. Both are interesting topics. 
+6. **Deep Reinforcement Learning** : Reinforcement Learning with Deep Neural etworks. Learn on [Openai]()
+
+## 4. Interesting people and channels on Internet
+
+1. Siraj Raval (Youtube)
+2. Andrew Ng (Baidu Research)
+3. Jeff Dean (Google Research)
+4. Geoffery Hinton (Toronto University)
+5. Yann Le Cunn (Facebook Research)
+6. Andrej Karpathy (Tesla)
+7. Justin Jhonson (Stanford)
+8. Peter Norvig (Google)
+9. Steve Case (AOL)
+10. mathematicalmonk (Youtube)
+11. Drew Conway (NYC)
+11. [fast.ai](fast.ai)
+12. Follow those whom these follow
+
+
+
+
